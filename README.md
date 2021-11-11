@@ -1,4 +1,4 @@
-# Livro de recitas :books:
+# Livro de receitas :books:
 
 Olá, este é o livro de receitas deste repositório!
 
